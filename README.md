@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Marcelo Cortés
 
-<!--
-**marcelolandia77/marcelolandia77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador en formación | Soporte Informático | Constructor de proyectos
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aquí comparto mis proyectos personales, experimentos, aprendizajes y soluciones tecnológicas que desarrollo para seguir creciendo como profesional.
+
+---
+
+## 🚀 Proyecto principal
+
+### Yo Digital
+Plataforma para organizar tareas, proyectos, inventario mediante códigos QR y productividad personal.
+
+---
+
+## 🛡️ Proyecto destacado
+
+### Alerta Nai
+Aplicación móvil orientada a mejorar la seguridad y las redes de apoyo mediante tecnología.
+
+---
+
+## ☁️ Laboratorio
+
+### Raspberry Lab
+Espacio donde experimento con servidores, Docker, Linux, Raspberry Pi y automatización.
+
+---
+
+## 💡 Startup en desarrollo
+
+### IdeaVault
+Plataforma para transformar ideas en proyectos utilizando inteligencia artificial.
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Firebase
+- Docker
+- Raspberry Pi
+- Inteligencia Artificial
+- Arquitectura de Software
+- Desarrollo Web
+- Desarrollo Backend
+
+---
+
+## 🛠️ Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- Firebase
+- Git
+- Linux
+
+---
+
+## 🎯 Objetivo
+
+Mi objetivo es construir soluciones tecnológicas que resuelvan problemas reales, aprendiendo continuamente y desarrollando proyectos con impacto.
+
+---
+
+⭐ Gracias por visitar mi perfil.
